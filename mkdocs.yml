@@ -1,0 +1,8 @@
+site_name: Testerii
+site_description: Testing templates'n'shit
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
